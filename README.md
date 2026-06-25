@@ -24,3 +24,19 @@ Store vs. Online sales comparison
 Product category analysis
 Year slicer.
 
+Page 3 – Top Selling Books
+Top-selling books and corresponding authors
+Fiction vs. Non-Fiction comparison
+Store and Online sales analysis
+
+Tools & Skills
+Microsoft Power BI
+DAX Measures
+Data Modeling
+Interactive Dashboards
+Data Visualization
+
+Author
+
+Sonia Tana
+Year Up United – Data Analytics Program
