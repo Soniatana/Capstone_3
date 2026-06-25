@@ -22,5 +22,5 @@ Page 2 – Sales Performance Dashboard
 Monthly sales trends
 Store vs. Online sales comparison
 Product category analysis
-Year slicer
+Year slicer.
 
