@@ -18,3 +18,9 @@ Sales KPIs
 Category performance
 Store vs. Online sales comparison
 
+Page 2 – Sales Performance Dashboard
+Monthly sales trends
+Store vs. Online sales comparison
+Product category analysis
+Year slicer
+
