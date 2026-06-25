@@ -34,7 +34,7 @@ Microsoft Power BI
 DAX Measures
 Data Modeling
 Interactive Dashboards
-Data Visualization
+Data Visualization.
 
 Author
 
